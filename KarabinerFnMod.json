@@ -2,7 +2,7 @@
   "title": "Function keys work as fn keys (instead of media keys)",
   "rules": [
     {
-      "description": "(iTerm, vsCode, Blender, C4D, AE) Function keys work as fn keys",
+      "description": "(iTerm, vsCode, webStorm, Xcode, Blender, C4D, AE) Function keys work as fn keys",
       "manipulators": [
         {
           "type": "basic",
