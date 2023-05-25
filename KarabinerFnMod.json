@@ -2,7 +2,7 @@
   "title": "Function keys work as fn keys (instead of media keys)",
   "rules": [
     {
-      "description": "(iTerm, vsCode, webStorm, Xcode, Blender, C4D, AE) Function keys work as fn keys",
+      "description": "(iTerm, vsCode, webStorm, Xcode, Blender, C4D, AE, UE5) Function keys work as fn keys",
       "manipulators": [
         {
           "type": "basic",
@@ -28,7 +28,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -57,7 +58,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -86,7 +88,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -115,7 +118,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -144,7 +148,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -173,7 +178,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -202,7 +208,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -231,7 +238,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -260,7 +268,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -289,7 +298,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -318,7 +328,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
@@ -347,7 +358,8 @@
                 "org.blenderfoundation.blender",
                 "net.maxon.cinema4d",
                 "com.apple.dt.Xcode",
-                "com.adobe.AfterEffects"
+                "com.adobe.AfterEffects",
+                "com.epicgames.UnrealEditor"
               ]
             }
           ]
